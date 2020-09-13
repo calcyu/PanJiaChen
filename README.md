@@ -1,9 +1,9 @@
-### 招人！！！ 👋
+### Open source 👨‍💻
 
-极度缺人中，有没有想来一起写代码的，具体内容见 [字节跳动-校招&社招-必读](https://bytedance.feishu.cn/docs/doccn2X46yfEcX5ybWnqM9oWZxd)
+Open source - Help others while improving yourself
 
 <!--
-**PanJiaChen/PanJiaChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**calcyu/calcyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=PanJiaChen&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=calcyu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
